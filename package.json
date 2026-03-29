@@ -7,6 +7,10 @@
   "author": "SkillSept",
   "license": "MIT",
   "repository": "github:skillsept/saltcorn-sql-import",
+  "saltcorn": {
+    "plugin_name": "saltcorn-sql-import",
+    "version": 1
+  },
   "publishConfig": {
     "access": "public"
   }
