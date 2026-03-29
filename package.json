@@ -1,12 +1,12 @@
 {
-  "name": "saltcorn-angles-type",
-  "version": "0.1.0",
-  "description": "Angular degrees data type",
+  "name": "saltcorn-sql-import",
+  "version": "0.0.0",
+  "description": "SQL script importation",
   "main": "index.js",
   "dependencies": {},
   "author": "SkillSept",
   "license": "MIT",
-  "repository": "github:saltcorn/angles-type",
+  "repository": "github:skillsept/saltcorn-sql-import",
   "publishConfig": {
     "access": "public"
   }
