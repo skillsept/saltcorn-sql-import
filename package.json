@@ -1,0 +1,13 @@
+{
+  "name": "saltcorn-angles-type",
+  "version": "0.1.0",
+  "description": "Angular degrees data type",
+  "main": "index.js",
+  "dependencies": {},
+  "author": "SkillSept",
+  "license": "MIT",
+  "repository": "github:saltcorn/angles-type",
+  "publishConfig": {
+    "access": "public"
+  }
+}
